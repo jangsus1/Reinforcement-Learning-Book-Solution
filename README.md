@@ -5,3 +5,6 @@ This repository is for the solutions of exercise questions inside the book
 
 The Solutions are written by myself, so it may contain typos.  
 For errors found on solutions, please leave me an issue!
+
+
+ (+ Currently adding solutions upto chapter 4, but not finished yet. 01/08)
