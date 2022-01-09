@@ -6,5 +6,8 @@ This repository is for the solutions of exercise questions inside the book
 The Solutions are written by myself, so it may contain typos.  
 For errors found on solutions, please leave me an issue!
 
+[Shortcut](https://github.com/jangsus1/Reinforcement-Learning-Book-Solution/blob/main/RL_Solutions.pdf) to solution file
+
 
  (+ Currently adding solutions upto chapter 4, but not finished yet. 01/08)
+ (+ Added solutions for chapter 3. 01/09)
