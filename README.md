@@ -13,3 +13,4 @@ For errors found on solutions, please leave me an issue!
  (+ Added solutions for chapter 3 01/09)  
  (+ Added solutions upto Exercise 5.4 01/17)  
  (+ Added solutions for chapter 5 01/24) 
+ (+ Added solutions upto Exercise 6.7 01/31)  
