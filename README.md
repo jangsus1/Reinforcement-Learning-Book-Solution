@@ -14,4 +14,6 @@ For errors found on solutions, please leave me an issue!
 (+ Added solutions upto Exercise 5.4 01/17)   
 (+ Added solutions for chapter 5 01/24)  
 (+ Added solutions upto Exercise 6.7 01/31)   
-(+ Added solutions for chapter 6 02/03)   
+(+ Added solutions for chapter 6 02/03)    
+(+ Added solutions for chapter 7 02/17)    
+(+ Added solutions for chapter 8 02/17)    
